@@ -40,24 +40,24 @@ int main()
 {
     int cha;
     cout << "Enter symbolic expression to solve the following:\nAddition = 1,\nSubtraction = 2,\nMultiplication = 3,\nDivision = 4";
-    cin>>cha;
+    cin >> cha;
     switch (cha)
     {
-    case 1 : 
+    case 1:
         add();
         break;
-    case 2 : 
+    case 2:
         sub();
         break;
-    case 3 : 
+    case 3:
         mul();
         break;
-    case 4 : 
+    case 4:
         div();
         break;
-    
+
     default:
-    cout<<"The value does not match please try again:)";
+        cout << "The value does not match please try again:)";
         break;
     }
 }
