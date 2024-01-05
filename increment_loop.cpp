@@ -7,6 +7,7 @@ int main()
     cin >> b;
     for (a = 1; a <= b; a++)
     {
-        cout << "\n" << a<<"-->"<<a*a;
+        cout << "\n"
+             << a << "-->" << a * a;
     }
 }
