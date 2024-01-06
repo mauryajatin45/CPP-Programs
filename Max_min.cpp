@@ -21,4 +21,5 @@ int main()
     {
         cout << "Both are equal";
     }
+        return 0;
 }

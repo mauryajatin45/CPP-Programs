@@ -13,4 +13,5 @@ int main()
     {
         cout << "The number is Negative";
     }
+        return 0;
 }

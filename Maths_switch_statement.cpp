@@ -60,4 +60,5 @@ int main()
         cout << "The value does not match please try again:)";
         break;
     }
+        return 0;
 }

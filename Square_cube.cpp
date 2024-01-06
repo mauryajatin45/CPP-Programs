@@ -7,4 +7,5 @@ int main()
     cin >> a;
     cout << "\nSquare is " << a * a;
     cout << "\ncube is " << a * a * a;
+        return 0;
 }

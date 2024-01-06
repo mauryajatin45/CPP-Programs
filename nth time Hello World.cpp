@@ -9,4 +9,5 @@ int main()
         cout << "\n";
         a++;
     }
+        return 0;
 }

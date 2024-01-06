@@ -10,4 +10,5 @@ void square()
 int main()
 {
     square();
+        return 0;
 }

@@ -9,4 +9,5 @@ int main()
     {
         cout << a << "x" << b << "=" << a * b << "\n";
     }
+        return 0;
 }

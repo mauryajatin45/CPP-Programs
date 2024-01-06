@@ -10,4 +10,5 @@ int main()
         cout << "\n"
              << a << "-->" << a * a;
     }
+        return 0;
 }
