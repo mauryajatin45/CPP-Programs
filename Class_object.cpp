@@ -27,6 +27,6 @@ int main()
     a.mo_no = 7069013316;
     a.fees = 25000;
     a.details();
-
+    
     return 0;
 }
