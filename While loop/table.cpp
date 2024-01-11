@@ -11,5 +11,4 @@ int main(){
         cout<<co<<"x"<<a<<"="<<co*a<<endl;
         a++;
     }
-
 }
