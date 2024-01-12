@@ -10,4 +10,5 @@ int main(){
     cout<<"The sixe of (long long)  "<<sizeof(long long)<<" bytes"<<endl;
     cout<<"The sixe of (double)  "<<sizeof(double)<<" bytes"<<endl;
     cout<<"The sixe of (long double)  "<<sizeof(long double)<<" bytes"<<endl;
+        return 0;
 }

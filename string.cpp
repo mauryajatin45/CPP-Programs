@@ -7,4 +7,5 @@ int main(){
     cout<<"The output of String is "<<a<<endl;
     cout<<"The output of String is "<<a.length()<<endl;
     cout<<"The output of String is "<<a.substr(0,2)<<endl;
+        return 0;
 }

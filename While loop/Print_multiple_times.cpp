@@ -10,4 +10,5 @@ int main()
         cout << i << " I will be regular in class"<<endl;
         i++;
     }
+    return 0;
 }

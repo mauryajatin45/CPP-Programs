@@ -11,4 +11,5 @@ void div(){
 int main(){
     // This program is to do the functions of type casting
     div();
+        return 0;
 }
