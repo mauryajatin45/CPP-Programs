@@ -6,5 +6,5 @@ int main(){
     for ( a; a<=50; a+=2)     {
         cout<<a<<endl;
     }
-    
+    return 0;
 }
