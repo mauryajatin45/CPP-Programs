@@ -6,17 +6,15 @@ private:
     int a, b, c;
 
 public:
-    maths()
+    maths() // Default, without argument constructor
     {
         a = 50, b = 30, c = 40;
-        // Default, without argument constructor
     }
-    maths(int x, int y, int z)
+    maths(int x, int y, int z) // with argument constructor, parameterized
     {
         a = x;
         b = y;
         c = z;
-        // with argument constructor, parameterized
     }
     void printresult()
     {
