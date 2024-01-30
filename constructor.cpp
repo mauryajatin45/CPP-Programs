@@ -16,6 +16,7 @@ public:
         a = x;
         b = y;
         c = z;
+        // with argument constructor, parameterized
     }
     void printresult()
     {
