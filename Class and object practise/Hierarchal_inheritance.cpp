@@ -40,6 +40,7 @@ public:
 
 class square : protected rectangle
 {
+    // 
 
 public:
     int setsquarearea()
