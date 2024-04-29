@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "j:/College/Sem-2/practical/cpp/CPP-Programs",
-      "program": "j:/College/Sem-2/practical/cpp/CPP-Programs/build/Debug/outDebug",
+      "cwd": "e:/College/Sem-2/practical/CPP-Programs",
+      "program": "e:/College/Sem-2/practical/CPP-Programs/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
