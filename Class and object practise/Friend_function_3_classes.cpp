@@ -33,7 +33,7 @@ public:
     int shraddhasetdata()
     {
         cout << "Enter the value of b:" << endl;
-        cin >> b;
+        cin >> b;   
     }
 
     int shraddhagetdata()
